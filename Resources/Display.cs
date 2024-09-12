@@ -9,6 +9,7 @@ public class Display
     {
         this.Width = Width;
         this.Height = Height;
+        Resolution=Width*Height;
         this.Clear();
     }
     public void Update(string Screen)

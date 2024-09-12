@@ -55,5 +55,4 @@ public static void LoadAnimation(Display display,string thing)
         y--;
         Console.WriteLine(display);
     }
-    Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
 }
